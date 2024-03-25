@@ -11,7 +11,7 @@ If you know of any exciting opportunities or would like to discuss potential col
 
 ## 📄 PDF CV
 
-You can view my CV [here](https://github.com/AAYSHAA/AAYSHA/files/14733808/AAYSHA.FAZAL.MOHAMED.pdf).
+You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed-CV.pdf).
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
@@ -23,7 +23,7 @@ Currently, I'm learning about:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AAYSHAA&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamryMohamed2001&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
 
 ## 💼 Skills
 
@@ -41,17 +41,17 @@ Currently, I'm learning about:
 
 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aayshafazalmohamed/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/AAYSHAA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/samrymohamed/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/SamryMohamed2001)
 
 ## 📈 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AAYSHAA)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamryMohamed2001)](https://git.io/streak-stats)
 
 
 ## 🌟 GitHub Skyline
 
-![GitHub Skyline](https://skyline.github.com/AAYSHA/0)
+![GitHub Skyline](https://skyline.github.com/SamryMohamed2001/0)
 
 
 ## 📝 License
