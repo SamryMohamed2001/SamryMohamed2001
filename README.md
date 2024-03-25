@@ -11,7 +11,7 @@ If you know of any exciting opportunities or would like to discuss potential col
 
 ## 📄 PDF CV
 
-You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed-CV.pdf).
+You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14733808/SamryMohamed-CV.pdf).
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
