@@ -11,12 +11,12 @@ If you know of any exciting opportunities or would like to discuss potential col
 
 ## 📄 PDF CV
 
-You can view my CV [here] 
+You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14750443/Samry.Mohamed-CV.pdf)
 
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
-## 🌱 What I'm Learning[Samry Mohamed-CV.pdf](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14750443/Samry.Mohamed-CV.pdf)
+## 🌱 What I'm Learning
 
 
 Currently, I'm learning about:
