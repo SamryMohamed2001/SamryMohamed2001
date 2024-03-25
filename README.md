@@ -7,11 +7,12 @@ Hey there! I'm Samry Mohamed, a software engineering enthusiast currently seekin
 ## 🚀 What I'm Looking For
 
 I'm actively seeking opportunities for a software engineering internship!
-If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:aayshafazalmohamed@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/samrymohamed/).
+If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:samrymohammed@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/samrymohamed/]).
 
 ## 📄 PDF CV
 
-You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14733808/SamryMohamed-CV.pdf).
+You can view my CV [here](https://github.com/SamryMohamed20[Samry Mohamed-CV.pdf](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14743356/Samry.Mohamed-CV.pdf)
+
 
 ![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
@@ -41,7 +42,7 @@ Currently, I'm learning about:
 
 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/samrymohamed/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/samrymohamed/])
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/SamryMohamed2001)
 
 ## 📈 GitHub Streak
