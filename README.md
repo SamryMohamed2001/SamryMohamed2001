@@ -7,9 +7,9 @@ Hey there! I'm Samry Mohamed, a software engineering enthusiast currently seekin
 ## 🚀 What I'm Looking For
 
 I'm actively seeking opportunities for a software engineering internship!
-If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:samrymohammed@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/samrymohamed/]).
+If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:samrymohammed@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/samry-mohamed/]).
 
-## 📄 PDF CV
+## 📄 CV and Portfolio
 
 You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14750443/Samry.Mohamed-CV.pdf)
 
@@ -38,18 +38,12 @@ You can view my portfolio [here](https://samrymohammed.wixsite.com/samry-mohamed
 
 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/samrymohamed/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/samry-mohamed/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue)](https://github.com/SamryMohamed2001)
 
 ## 📈 GitHub Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamryMohamed2001)](https://git.io/streak-stats)
-
-
-## 🌟 GitHub Skyline
-
-![GitHub Skyline](https://skyline.github.com/SamryMohamed2001/0)
-
 
 ## 📝 License
 
