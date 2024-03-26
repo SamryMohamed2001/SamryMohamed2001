@@ -1,4 +1,4 @@
-# Hello World! I'm Samry 👋
+# Hello! I'm Samry 👋
 
 ## About Me ℹ
 
@@ -13,15 +13,7 @@ If you know of any exciting opportunities or would like to discuss potential col
 
 You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14750443/Samry.Mohamed-CV.pdf)
 
-
-![Fun GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFoeGF4NW1wNDZoMWoxOHc4b2lpbmx5bmxpZWJ1bzE2bHpta3J4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
-
-## 🌱 What I'm Learning
-
-
-Currently, I'm learning about:
-- [Topic 1](link_to_topic_1)
-- [Topic 2](link_to_topic_2)
+You can view my portfolio [here](https://samrymohammed.wixsite.com/samry-mohamed/)
 
 ## 📊 GitHub Stats
 
@@ -29,17 +21,20 @@ Currently, I'm learning about:
 
 ## 💼 Skills
 
-- Language/Framework/Tool 1
-- Language/Framework/Tool 2
-- Language/Framework/Tool 3
+- Java
+- Python
+- OOP
+- HTML
+- CSS
+- JavaScript
+- Flutter
+- Firebase
+- Figma
 
 ## 🛠 Tools & Technologies
 
-- Tool/Technology 1
-- Tool/Technology 2
-- Tool/Technology 3
-
-## 🎨 Social Icons
+- Android Studio/Flutter
+- Visual Studio Code/HTML, CSS, JavaScript
 
 Connect with me:
 
