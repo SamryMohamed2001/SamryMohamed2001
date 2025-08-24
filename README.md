@@ -2,22 +2,7 @@
 
 ## About Me ℹ
 
-Hey there! I'm Samry Mohamed, a software engineering enthusiast currently seeking opportunities as a Software Engineering Intern. I'm passionate about building innovative solutions and eager to learn and grow in a professional environment. Currently pursuing Software Engineering at the Informatics Institute of Technology (IIT), Sri Lanka, affiliated with the University of Westminster, UK.
-
-## 🚀 What I'm Looking For
-
-I'm actively seeking opportunities for a software engineering internship!
-If you know of any exciting opportunities or would like to discuss potential collaborations, feel free to reach out to me via [email](mailto:samrymohammed@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/samry-mohamed/]).
-
-## 📄 CV and Portfolio
-
-You can view my CV [here](https://github.com/SamryMohamed2001/SamryMohamed2001/files/14750443/Samry.Mohamed-CV.pdf)
-
-You can view my portfolio [here](https://samrymohammed.wixsite.com/samry-mohamed/)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamryMohamed2001&show_icons=true&theme=radical&count_private=true&hide=issues,contribs)
+Hi, I’m a tech entrepreneur and full-stack developer passionate about building modern, scalable digital solutions. I work with a range of trending tech stacks to turn ideas into impactful products. Through my startup, Altrizo Labs, we help businesses and founders bring their digital visions to life—from MVPs to full-scale platforms—with a focus on innovation, performance, and user experience.
 
 ## 💼 Skills
 
